@@ -1,4 +1,4 @@
-# Java Boolean Logic - Else-If-Statement
+# Java Simple Math Statements
 
 
 ### Instructions to compile Java source files from the command prompt
@@ -7,7 +7,7 @@ The `mkdir` command with the semicolon (;) operator will create the `bin` direct
 
 The `javac` command compiles Java source files (`.java`) into bytecode files (`.class`) and the `-d directory` option specifies where the compiler puts the generated `.class` files. If the source file is under a package, the compiler will create package structure in the destination directory. The directory, and any necessary subdirectories, will be created if they do not already exist.
 
-1. Navigate into directory `Boolean-Logic/Else-If-Statement`
+1. Navigate into directory `Simple-Math-Statements`
 2. Enter command: `mkdir bin ; javac -d bin src/**/*.java`
 
 
@@ -17,19 +17,18 @@ The `java` command executes/launches a Java program/application.
 
 Syntax for executing a specific `.class` file: `java -classpath bin [name of class file]`.
 
-1. Navigate into directory `Boolean-Logic/Else-If-Statement`
-2. Enter command: `java -classpath bin ElseIfStatement`
+1. Navigate into directory `Simple-Math-Statements`
+2. Enter command: `java -classpath bin MathematicalOperators`
 
 
 ### Output
 
 ```
-% java -classpath bin ElseIfStatement
-Inside the else-if statement
-```
-
-```
-% java -classpath bin ConditionalBlocks
-5
-Outside of the if-statement
+% java -classpath bin MathematicalOperators
+8
+2
+15
+1
+2
+25
 ```
