@@ -1,4 +1,4 @@
-# Java Inheritance
+# Java Boolean Logic - Else-Statement
 
 
 ### Instructions to compile Java source files from the command prompt
@@ -7,7 +7,7 @@ The `mkdir` command with the semicolon (;) operator will create the `bin` direct
 
 The `javac` command compiles Java source files (`.java`) into bytecode files (`.class`) and the `-d directory` option specifies where the compiler puts the generated `.class` files. If the source file is under a package, the compiler will create package structure in the destination directory. The directory, and any necessary subdirectories, will be created if they do not already exist.
 
-1. Navigate into directory `05-Inheritance`
+1. Navigate into directory `Boolean-Logic/Else-Statement`
 2. Enter command: `mkdir bin ; javac -d bin src/**/*.java`
 
 
@@ -15,17 +15,15 @@ The `javac` command compiles Java source files (`.java`) into bytecode files (`.
 
 The `java` command executes/launches a Java program/application.
 
-Syntax for executing a specific `.class` file: `java -classpath bin examples/[name of class file]`.
+Syntax for executing a specific `.class` file: `java -classpath bin [name of class file]`.
 
-1. Navigate into directory `05-Inheritance`
-2. Enter command: `java -classpath bin examples/InheritanceTest`
+1. Navigate into directory `Boolean-Logic/Else-Statement`
+2. Enter command: `java -classpath bin ElseStatement`
 
 
 ### Output
 
 ```
-% java -classpath bin examples/InheritanceTest
-"generic animal sounds!"
-Woof!
-The dog looks cute for food.
+% java -classpath bin ElseStatement
+Inside the else-statement
 ```

@@ -15,7 +15,7 @@ The `javac` command compiles Java source files (`.java`) into bytecode files (`.
 
 The `java` command executes/launches a Java program/application.
 
-Syntax for executing a specific `.class` file: `java -classpath bin examples/[name of class file]`.
+Syntax for executing a specific `.class` file: `java -classpath bin [name of class file]`.
 
 1. Navigate into directory `Boolean-Logic/If-Statement`
 2. Enter command: `java -classpath bin IfStatement`
