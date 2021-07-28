@@ -39,3 +39,12 @@ Syntax for executing a specific `.class` file: `java -classpath bin [name of cla
 3
 6
 ```
+
+```
+% java -classpath bin SwapElements
+5
+2
+3
+4
+1
+```
