@@ -32,3 +32,10 @@ Syntax for executing a specific `.class` file: `java -classpath bin [name of cla
 2
 25
 ```
+
+```
+% java -classpath bin CastingDatatypes
+200
+200.0
+-56
+```
