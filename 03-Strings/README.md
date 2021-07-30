@@ -34,10 +34,23 @@ String.chatAt(4):         o
 
 string1.equals(string2):            false
 string1.equalsIgnoreCase(string2):  true
+This is a new String
+this is a new string
+i
+true
+true
+ is a new string
 ```
 ```
 % java -classpath bin examples/StringTest   
 String A: Hello
 String B: Hello
 stringA and stringB do NOT point to the same object!
+```
+```
+% java -classpath bin examples/StringConcatenation
+Hello World
+The value of l: 203
+true is true
+5 is the sum of x and y
 ```

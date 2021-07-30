@@ -27,7 +27,6 @@ Syntax for executing a specific `.class` file: `java -classpath bin [name of cla
 % java -classpath bin ElseIfStatement
 Inside the else-if statement
 ```
-
 ```
 % java -classpath bin ConditionalBlocks
 5
