@@ -35,7 +35,6 @@ java.io.FileNotFoundException: DoesNotExistX.txt (No such file or directory)
   at examples.CheckedExceptionExample.main(CheckedExceptionExample.java:15)
 The application's Try - Catch block statement has executed!
 ```
-
 ```
 % java -classpath bin examples/ExceptionTest
 Caught an arithmetic exception!
