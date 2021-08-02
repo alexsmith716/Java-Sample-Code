@@ -38,3 +38,68 @@ Inside of the talk method
 Hello
 Hello
 ```
+```
+java -classpath bin MethodReturnTypesExampleCode
+Hello
+```
+```
+% java -classpath bin MethodReturnTypesExercise1
+Math.PI: 3.141592653589793
+```
+```
+% java -classpath bin MethodReturnTypesExercise2
+letter: a
+letter: b
+letter: c
+letter: d
+letter: e
+letter: f
+letter: g
+letter: h
+letter: i
+letter: j
+letter: k
+letter: l
+letter: m
+letter: n
+letter: o
+letter: p
+letter: q
+letter: r
+letter: s
+letter: t
+letter: u
+letter: v
+letter: w
+letter: x
+letter: y
+letter: z
+```
+```
+% java -classpath bin MethodsWithParametersExampleCode
+Hello Jessica
+```
+```
+java -classpath bin MethodsWithParametersExercise1
+square: 4.0
+square: 16.0
+square: 36.0
+square: 64.0
+```
+```
+% java -classpath bin MethodsWithParametersExercise2
+findFirstWord: azzzzzzzzzzzzz
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
