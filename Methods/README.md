@@ -39,7 +39,7 @@ Hello
 Hello
 ```
 ```
-java -classpath bin MethodReturnTypesExampleCode
+% java -classpath bin MethodReturnTypesExampleCode
 Hello
 ```
 ```
@@ -80,7 +80,7 @@ letter: z
 Hello Jessica
 ```
 ```
-java -classpath bin MethodsWithParametersExercise1
+% java -classpath bin MethodsWithParametersExercise1
 square: 4.0
 square: 16.0
 square: 36.0
@@ -90,16 +90,3 @@ square: 64.0
 % java -classpath bin MethodsWithParametersExercise2
 findFirstWord: azzzzzzzzzzzzz
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
