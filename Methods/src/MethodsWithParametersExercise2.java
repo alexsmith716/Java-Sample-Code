@@ -30,7 +30,7 @@ public class MethodsWithParametersExercise2 {
 				return b;
 			}
 
-			//otherwise they are equal and you can move to the next letter
+			// otherwise they are equal and you can move to the next letter
 		}
 
 		// you need this line in case the above loop doesn't return anything.
