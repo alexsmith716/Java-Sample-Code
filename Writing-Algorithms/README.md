@@ -40,5 +40,38 @@ findLetterIndexFromMiddle > secondHalf.length: 13
 the index of letter 'k': 10
 ```
 ```
-
+% java -classpath bin WritingAlgorithmsSearchAlgorithmsCodeActivity
+-1
+```
+```
+% java -classpath bin WritingAlgorithmsRecursiveMethodsCodeActivity
+factorial > num: 5
+factorial > num: 4
+factorial > num: 3
+factorial > num: 2
+factorial > num: 1
+factorial ? num == 1: 1
+w.factorial(input): 120
+```
+```
+% java -classpath bin WritingAlgorithmsRecursiveMethodsExercise1
+h
+g
+f
+e
+d
+c
+b
+a
+```
+```
+java -classpath bin WritingAlgorithmsRecursiveMethodsExercise2
+binarySearch > target: 7
+binarySearch > maxRange: 29
+binarySearch > midpoint: 14
+copyArray > min-max: 0-14
+binarySearch > target: 7
+binarySearch > maxRange: 14
+binarySearch > midpoint: 7
+w.binarySearch(input): 7
 ```
